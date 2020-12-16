@@ -9,6 +9,9 @@ function App() {
         <p>
           Ivy Arc Frontend
         </p>
+        <p>
+          CI / CD Surgery
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
